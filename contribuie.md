@@ -1,3 +1,8 @@
+---
+title: Contribuie
+layout: default
+---
+
 **rezistam.ro** e o arhiva online a protestelor din Piata Victoriei.  
 Acest site este gazduit pe [GitHub Pages](https://github.com/rezistam/rezistam.github.io) si este open-source.  
 
