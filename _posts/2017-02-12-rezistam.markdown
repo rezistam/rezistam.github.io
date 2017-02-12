@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "#rezistam"
+date:   2017-02-12
+---
+Vrem sa construim o arhiva online (si open-source) a protestelor din Piata Victoriei - [contribuie si tu!]({{site.url}}/contribuie)
