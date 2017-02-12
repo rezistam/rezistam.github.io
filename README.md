@@ -25,11 +25,11 @@ Pentru a contribui este necesar un cont [GitHub](https://github.com/).
 8. Pentru a finaliza, faceti click pe butonul **`Propose new file`**
 
 
-[^fork]: Mai multe informatii (*in engleza*) pe [site-ul GitHub](https://help.github.com/articles/fork-a-repo/)
-[^file]: Mai multe informatii (*in engleza*) pe [site-ul GitHub](https://github.com/blog/1327-creating-files-on-github) 
-[^name]: Pentru consistenta, numele fisierului trebuie sa fie in formatul: `ANUL-LUNA-ZIUA-Titlu.md`
-[^post]: Mai multe informatii (*in engleza*) despre [articole blog](https://jekyllrb.com/docs/posts/)
-[^info]: Copiati textul si modificati doar titlul si data
-[md]: https://guides.github.com/features/mastering-markdown/#examples "MarkDown"
-[preview]: images/preview.png
-[commit]:images/commit.png
+[^fork]: Mai multe informatii (*in engleza*) pe [site-ul GitHub](https://help.github.com/articles/fork-a-repo/)  
+[^file]: Mai multe informatii (*in engleza*) pe [site-ul GitHub](https://github.com/blog/1327-creating-files-on-github)  
+[^name]: Pentru consistenta, numele fisierului trebuie sa fie in formatul: `ANUL-LUNA-ZIUA-Titlu.md`  
+[^post]: Mai multe informatii (*in engleza*) despre [articole blog](https://jekyllrb.com/docs/posts/)  
+[^info]: Copiati textul si modificati doar titlul si data  
+[md]: https://guides.github.com/features/mastering-markdown/#examples "MarkDown"  
+[preview]: images/preview.png  
+[commit]:images/commit.png  
