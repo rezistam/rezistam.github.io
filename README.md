@@ -7,10 +7,9 @@ Pentru a contribui este necesar un cont [GitHub](https://github.com/).
 
 ### Instructiuni
 
-1. Vizitati pagina [site-ului](https://github.com/rezistam/rezistam.github.io)
-2. Din meniul ![meniu](images/meniu.png) selectati optiunea **`Fork`**[^fork]  
-3. Pentru un nou articol pe blog, creati un nou fisier in directorul **`_posts`**: ![articol](images/articol.png) [^file]  [^name]
-4. La inceputul fiecarui articol trebuie sa adaugati cateva informatii suplimentare: [^post]  
+1. Din meniul ![meniu](images/meniu.png) selectati optiunea **`Fork`** [^fork]  
+2. Pentru un nou articol pe blog, creati un nou fisier in directorul **`_posts`**: ![articol](images/articol.png) [^file]  [^name]
+3. La inceputul fiecarui articol trebuie sa adaugati cateva informatii suplimentare: [^post]  
 
 	`---`  
 	`layout: post`  
@@ -18,11 +17,11 @@ Pentru a contribui este necesar un cont [GitHub](https://github.com/).
 	`date: 2017-02-01`  
 	`---`  
  [^info]
-5. Textul trebuie introdus urmarind specificatiile [MarkDown][md]
-6. Selectati **Preview** din meniul ![preview]
-7. La final, selectati **Create new branch** din meniul:  
+4. Textul trebuie introdus urmarind specificatiile [MarkDown][md]
+5. Selectati **Preview** din meniul ![preview]
+6. La final, selectati **Create new branch** din meniul:  
 ![commit]
-8. Pentru a finaliza, faceti click pe butonul **`Propose new file`**
+7. Pentru a finaliza, faceti click pe butonul **`Propose new file`**
 
 ===  
 
