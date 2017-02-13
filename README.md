@@ -24,6 +24,7 @@ Pentru a contribui este necesar un cont [GitHub](https://github.com/).
 ![commit]
 8. Pentru a finaliza, faceti click pe butonul **`Propose new file`**
 
+===  
 
 [^fork]: Mai multe informatii (*in engleza*) pe [site-ul GitHub](https://help.github.com/articles/fork-a-repo/)  
 [^file]: Mai multe informatii (*in engleza*) pe [site-ul GitHub](https://github.com/blog/1327-creating-files-on-github)  
