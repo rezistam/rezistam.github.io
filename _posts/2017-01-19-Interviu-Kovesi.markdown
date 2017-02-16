@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "	
-INTERVIU - Kovesi: O să vedem în presă discuţii şi dezbateri despre licitaţii trucate şi noi, DNA, să stăm să ne uităm la televizor fără să putem interveni - VIDEO"
+title:  "Kovesi: O să vedem în presă discuţii şi dezbateri despre licitaţii trucate şi noi, DNA, să stăm să ne uităm la televizor fără să putem interveni"
 date:   2017-01-19
 tags: interview, video
 ---
