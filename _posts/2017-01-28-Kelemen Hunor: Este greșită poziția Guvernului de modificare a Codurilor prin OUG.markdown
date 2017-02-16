@@ -1,5 +1,5 @@
 layout: post
-title:IKelemen Hunor: Este greșită poziția Guvernului de modificare a Codurilor prin OUG
+title:Kelemen Hunor: Este greșită poziția Guvernului de modificare a Codurilor prin OUG
 date:2017-01-28
 
 
