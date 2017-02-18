@@ -1,0 +1,10 @@
+---
+layout:post
+title:Sibiu: Doi tineri reținuți, după ce au aprins o torță la protestul la care au fost zece mii de oameni
+date:2017-02-02
+---
+
+Peste 10.000 de oameni au participat, joi seară, la proteste de stradă în Sibiu, care s-au încheiat în Piața Mare, unde a avut loc și un incident, doi dintre participanți fiind reținuți de jandarmi după ce unul dintre ei a aprins o torță
+
+
+[Sursa](http://www.agerpres.ro/social/2017/02/02/sibiu-cateva-mii-de-oameni-protesteaza-in-piata-mare-18-55-24)
