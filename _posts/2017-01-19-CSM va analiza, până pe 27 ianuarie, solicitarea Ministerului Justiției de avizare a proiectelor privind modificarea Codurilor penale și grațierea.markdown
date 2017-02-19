@@ -1,7 +1,7 @@
 ---
 layout: post
-title:CSM va analiza, până pe 27 ianuarie, solicitarea Ministerului Justiției de avizare a proiectelor privind modificarea Codurilor penale și grațierea
-date:2017-01-19
+title: 'CSM va analiza, până pe 27 ianuarie, solicitarea Ministerului Justiției de avizare a proiectelor privind modificarea Codurilor penale și grațierea'
+date: 2017-01-19
 ---
 
 

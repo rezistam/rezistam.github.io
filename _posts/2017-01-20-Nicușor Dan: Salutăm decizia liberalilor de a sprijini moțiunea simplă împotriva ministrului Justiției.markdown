@@ -1,7 +1,7 @@
 ---
 layout: post
-title:Nicușor Dan: Salutăm decizia liberalilor de a sprijini moțiunea simplă împotriva ministrului Justiției
-date:2017-01-20
+title: 'Nicușor Dan: Salutăm decizia liberalilor de a sprijini moțiunea simplă împotriva ministrului Justiției'
+date: 2017-01-20
 ---
 
 

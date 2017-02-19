@@ -1,7 +1,7 @@
 ---
-layout:post
-title:Procurorul Oana Schmidt-Hăineală a înaintat premierului demisia de la Ministerul Justiției
-date:2017-02-03
+layout: post
+title: 'Procurorul Oana Schmidt-Hăineală a înaintat premierului demisia de la Ministerul Justiției'
+date: 2017-02-03
 ---
 
 Procurorul Oana Andrea Schmidt-Hăineală a solicitat vineri premierului Sorin Grindeanu încetarea calității de secretar de stat la Ministerul Justiției.

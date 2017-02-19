@@ -1,7 +1,7 @@
 ---
 layout: post
-title:Dragoș Călin (Forumul Judecătorilor): Este discutabilă urgența privind proiectele de modificare a Codurilor și grațiere
-date:2017-01-18
+title: 'Dragoș Călin (Forumul Judecătorilor): Este discutabilă urgența privind proiectele de modificare a Codurilor și grațiere'
+date: 2017-01-18
 ---
 
 Judecatorul Dragos Calin, presedintele Forumului Judecatorilor, nu considera ca adoptarea ordonantei de urgenta privind gratierea si amnisitia este urgenta. 

@@ -1,7 +1,7 @@
 ---
-layout:post
-title:Sibiu: Liderii liberali îndeamnă oamenii să iasă în stradă
-date:2017-02-03
+layout: post
+title: 'Sibiu: Liderii liberali îndeamnă oamenii să iasă în stradă'
+date: 2017-02-03
 ---
 
 Liderii locali ai PNL Sibiu au făcut, vineri, un apel la toți locuitorii municipiului să iasă în stradă și să protesteze împotriva modificărilor codurilor penale, anunțând că și liberalii vor fi prezenți la proteste.

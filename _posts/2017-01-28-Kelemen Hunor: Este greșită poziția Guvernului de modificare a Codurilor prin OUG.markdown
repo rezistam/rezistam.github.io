@@ -1,7 +1,7 @@
 ---
 layout: post
-title:Kelemen Hunor: Este greșită poziția Guvernului de modificare a Codurilor prin OUG
-date:2017-01-28
+title: 'Kelemen Hunor: Este greșită poziția Guvernului de modificare a Codurilor prin OUG'
+date: 2017-01-28
 ---
 
 Președintele UDMR, Kelemen Hunor, a declarat sâmbătă, în cadrul Consiliului Reprezentanților Unionali (CRU) de la Târgu Mureș, că este greșită poziția Guvernului de a modifica prin ordonanțe Codul penal și Codul de procedură penală, menționând că ori de câte ori s-au făcut modificări 'ocolindu-se' Parlamentul, 'întotdeauna s-au născut probleme'.

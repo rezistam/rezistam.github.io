@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grindeanu: Conform Constituției, avem voie să dăm grațiere și amnistie? Da, deci nu sunt impotriva legii
+title: 'Grindeanu: Conform Constituției, avem voie să dăm grațiere și amnistie? Da, deci nu sunt impotriva legii'
 date: 2017-01-18
 ---
 

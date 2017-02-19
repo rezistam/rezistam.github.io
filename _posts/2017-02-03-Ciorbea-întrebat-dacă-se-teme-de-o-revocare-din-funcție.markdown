@@ -1,7 +1,7 @@
 ---
-layout:post
-title:Ciorbea, întrebat dacă se teme de o revocare din funcție: Nu mi-e frică de nimic, decât de Dumnezeu
-date:2017-02-03
+layout: post
+title: 'Ciorbea, întrebat dacă se teme de o revocare din funcție: Nu mi-e frică de nimic, decât de Dumnezeu'
+date: 2017-02-03
 ---
 
 Avocatul Poporului (AP), Victor Ciorbea, a declarat că nu îi este frică de nimic, decât de Dumnezeu, după ce a fost întrebat vineri de jurnaliști dacă se teme de o revocare din funcție.

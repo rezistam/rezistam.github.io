@@ -1,7 +1,7 @@
 ---
-layout:post
-title:Ciorbea regretă răspunsul dat miercuri despre OUG 13/2017, înainte de a verifica dacă sunt precedente
-date:2017-02-03
+layout: post
+title: 'Ciorbea regretă răspunsul dat miercuri despre OUG 13/2017, înainte de a verifica dacă sunt precedente'
+date: 2017-02-03
 ---
 
 Avocatul Poporului (AP), Victor Ciorbea, regretă că a dat miercuri un răspuns unor jurnaliști referitor la OUG 13/2017 privind modificarea Codurilor penale, înainte de a verifica dacă sunt precedente în materie.

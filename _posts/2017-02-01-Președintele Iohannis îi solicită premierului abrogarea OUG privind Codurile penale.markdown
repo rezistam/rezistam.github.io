@@ -1,7 +1,7 @@
 ---
-layout:post
-title:Președintele Iohannis îi solicită premierului abrogarea OUG privind Codurile penale
-date:2017-02-01
+layout: post
+title: 'Președintele Iohannis îi solicită premierului abrogarea OUG privind Codurile penale'
+date: 2017-02-01
 ---
 
 Președintele Klaus Iohannis i-a transmis miercuri premierului Sorin Grindeanu o scrisoare prin care îi cere abrogarea OUG privind modificarea Codurilor penale.

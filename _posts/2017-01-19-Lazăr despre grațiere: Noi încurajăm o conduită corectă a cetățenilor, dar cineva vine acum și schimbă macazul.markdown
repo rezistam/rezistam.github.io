@@ -1,7 +1,7 @@
 ---
 layout: post
-title:Lazăr despre grațiere: Noi încurajăm o conduită corectă a cetățenilor, dar cineva vine acum și schimbă macazul
-date:2017-01-19
+title: 'Lazăr despre grațiere: Noi încurajăm o conduită corectă a cetățenilor, dar cineva vine acum și schimbă macazul'
+date: 2017-01-19
 ---
 
 

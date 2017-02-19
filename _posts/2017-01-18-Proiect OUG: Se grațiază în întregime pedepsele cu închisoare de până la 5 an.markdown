@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proiect OUG: Se grațiază în întregime pedepsele cu închisoare de până la 5 an
+title: 'Proiect OUG: Se grațiază în întregime pedepsele cu închisoare de până la 5 ani'
 date: 2017-01-18
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sorin Grindeanu despre abrogarea OUG 13"	
+title:  'Sorin Grindeanu despre abrogarea OUG 13'	
 date:   2017-02-17
 ---
 

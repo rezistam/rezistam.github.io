@@ -1,7 +1,7 @@
 ---
-layout:post
-title:Avocatul Poporului sesizează CCR pe OUG privind modificarea Codurilor penale
-date:2017-02-03
+layout: post
+title: 'Avocatul Poporului sesizează CCR pe OUG privind modificarea Codurilor penale'
+date: 2017-02-03
 ---
 
 Avocatul Poporului, Victor Ciorbea, a anunțat vineri că a decis să sesizeze Curtea Constituțională cu privire la OUG 13/2017 referitoare la modificarea Codurilor penale.
